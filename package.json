@@ -1,0 +1,10 @@
+{
+  "name": "node-buffer-pool-lab",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node --test"
+  }
+}
